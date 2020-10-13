@@ -1,4 +1,6 @@
-### Hi there 👋
+* "Look at me. Look up, and look at me. You're always looking down." *Your lie in April*
+
+<img src="https://github-readme-stats.vercel.app/api?username=kiyamou&show_icons=true">
 
 <!--
 **Kiyamou/Kiyamou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
