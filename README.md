@@ -1,4 +1,5 @@
-* "Look at me. Look up, and look at me. You're always looking down." *Your lie in April*
+* "The moment I met her, my life changed. Everything I saw, everything I heard, everything I felt. All the scenery around me started to take on color. The whole world began to sparkle." *Your lie in April*
+* 活在当下，创造回忆
 
 <!--
 **Kiyamou/Kiyamou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
