@@ -1,6 +1,6 @@
 "Look at me. Look up, and look at me. You're always looking down." *Your lie in April*
 
-##### VapourSynth plugins
+#### VapourSynth plugins
 * Resize: [JincResize](https://github.com/Kiyamou/VapourSynth-JincResize), [AreaResize](https://github.com/Kiyamou/VapourSynth-AreaResize)
 * Super resolution: [SRMD-ncnn-Vulkan](https://github.com/Kiyamou/VapourSynth-SRMD-ncnn-Vulkan), [RealSR-ncnn-Vulkan](https://github.com/Kiyamou/VapourSynth-RealSR-ncnn-Vulkan)
 * Other: [DehazingCE](https://github.com/Kiyamou/VapourSynth-DehazingCE)
