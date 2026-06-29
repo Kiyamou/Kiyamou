@@ -5,6 +5,8 @@
 * Super resolution: [SRMD-ncnn-Vulkan](https://github.com/Kiyamou/VapourSynth-SRMD-ncnn-Vulkan), [RealSR-ncnn-Vulkan](https://github.com/Kiyamou/VapourSynth-RealSR-ncnn-Vulkan), [RealCUGAN-ncnn-Vulkan](https://github.com/Kiyamou/VapourSynth-RealCUGAN-ncnn-Vulkan)
 * Other: [DehazingCE](https://github.com/Kiyamou/VapourSynth-DehazingCE)
 
+[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/kiyamou)](https://githubroast.dev/u/kiyamou)
+
 <!--
 **Kiyamou/Kiyamou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
